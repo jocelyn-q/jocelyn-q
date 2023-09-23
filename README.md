@@ -6,11 +6,15 @@ Tech and History enjoyer.
 <img src="https://streak-stats.demolab.com?user=jocelyn-q&hide_border=true&exclude_days=Sun%2CSat" align="center" style="width: 50%" />
 
 
-<h1> Web Projets</h1>
-Pokedex-app : https://jocelyn-q.github.io/pokedex-app/
+<h1> Personal Web Projets</h1>
 
 Worldle : https://jocelyn-q.github.io/worldle/
+Pokedex-app : https://jocelyn-q.github.io/pokedex-app/
 
+<h1> Figma Prototypes</h1>
+SOCRA's project : https://www.figma.com/proto/dEFcGFyh0cIwgewRIdYQnO/SOCRA---MVP?type=design&node-id=5-285&t=tufWLkCJaPLN2q3B-0&scaling=min-zoom&page-id=5%3A285&starting-point-node-id=32%3A253
+MEPA's project : https://www.figma.com/proto/g5PaYEY3KHLEJcUQtL2xtV/MEPA?type=design&node-id=13-106&t=tufWLkCJaPLN2q3B-0&scaling=min-zoom&page-id=13%3A105&starting-point-node-id=13%3A106
+Design Thinking, SNCF Connect project : https://www.figma.com/proto/uS1PF0L6nSiPGnKxFCuzPb/SNCF-Connect?type=design&node-id=6-5861&t=tufWLkCJaPLN2q3B-0&scaling=scale-down&page-id=6%3A5854&starting-point-node-id=6%3A5861
 
 <h1>Techos, Languages & Tools</h1>
 
