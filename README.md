@@ -21,15 +21,18 @@ Design Thinking, SNCF Connect project : https://www.figma.com/proto/uS1PF0L6nSiP
 <div>
   <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" width=40 height=40> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width=40 height=35>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" width=40 height=35>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width=35 height=35>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width=40 height=40> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width=30 height=40> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width=40 height=40> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=30 height=35>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width=40 height=40>
+  <img src="https://imgs.search.brave.com/S_OFOTG6o22ejeq7lkbH5WM5o72yujvsqqdz7UMTOqo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL21vbmdv/ZGItanMvbGVhZi9y/YXcvbWFzdGVyL2Rp/c3QvbW9uZ29kYi1s/ZWFmXzUxMng1MTIu/cG5n" width=40 height=40>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width=40 height=40>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=35 height=40> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=40 height=40> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width=40 height=40> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width=40 height=40> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width=40 height=40>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width=40 height=40>
+  <img src="https://imgs.search.brave.com/0CM6gcTONyzFIOn1ysOfQ6ZwvC8_EiRKrSLqbOVCzoc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MDk3OWNlZjEw/MTRjMGI1ZTQ5MDEu/cG5n" width=40 height=40> 
 </div>
